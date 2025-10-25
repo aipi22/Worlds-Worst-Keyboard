@@ -1,0 +1,21 @@
+REQUIRED PARTS:
+1. Lots of jumper wires
+2. 4 push buttons or switch keys
+3. One peizo buzzer or similar item
+4. One Arduino Micro or Pro Micro (Can be substituted with another arduino, check compatability here: https://docs.arduino.cc/language-reference/en/functions/usb/Keyboard/
+5. SPI compatible RFID scanner, I used this one: https://community.microcenter.com/kb/articles/674-inland-rc522-rfid-module-for-arduino
+6. Two different rfid scanning cards, the ones I used came with the above scanner
+7. An I2C communicating LCD display, for my code 16x2 size:
+  You can buy an LCD and I2C driver seperately, I used this driver: https://www.walmart.com/ip/HW-061-IIC-I2C-Serial-Interface-LCD1602-Adapter-Board-Converter-Module/1847164786 (will require soldering)
+  Or you can buy one together: https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O?th=1
+8. USB to Micro USB cable, or whatever else connects your arduino to your computer
+9. Breadboard or perfboard. You can also create a custom PCB, but I do not have a PCB schematic for you, so you will have to make and manage that yourself. If you would like, you can add one to this repo!
+
+REQUIRED SOFTWARE:
+1. Arduino IDE or other compatible software - by Arduino
+2. Arduino Keyboard library                 - by Arduino
+3. Arduino SPI library                      - by Arduino, shouldn't need installation
+4. Arduino LiquidCrystal_I2C library        - by Frank de Brabander
+5. Arduino MFRC522 library                  - by Github Community
+
+If using Arduino IDE, all packages should be available within the IDE and can be installed with Tools -> Mange Libraries
