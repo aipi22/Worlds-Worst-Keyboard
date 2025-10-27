@@ -1,5 +1,5 @@
 # Worlds-Worst-Keyboard
-This is a keyboard that you definitely do not want to use. It features a limited key selection, difficult to use user interface and a very high cost of use.
+This is a keyboard that you definitely do not want to use. It features a limited key selection, difficult to navigate user interface and a very high operation cost.
 
 ![IMG_2240](https://github.com/user-attachments/assets/7569cf3e-cf19-479f-b1c5-a4cf661260fb)
 
