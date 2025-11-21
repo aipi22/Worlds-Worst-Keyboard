@@ -23,3 +23,6 @@ See Apple Pay.stl for a fun 3D print that turns your ordinary key tag style scan
 The first card you try to scan always declines. The second card will let you through. Then, the number of dollars you spend will be the number of characters you can type later. With the tip, if you give 0%, the system will refuse to help you. If you end up spending more than $110, the system will tell you that your card has declined this purchase. After that, if you type more characters than you purchased (excluding tip) then you will find the device getting mad and deleting the last 1000 characters you typed.  
 
 This is a joke project that does not use real money.
+
+> [!Note]
+> **Check out my website!** See other projects like this one at [aipiMain](https://aipi22.github.io/aipiMain/)
