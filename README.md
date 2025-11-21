@@ -3,6 +3,9 @@ This is a keyboard that you definitely do not want to use. It features a limited
 
 ![IMG_2240](https://github.com/user-attachments/assets/7569cf3e-cf19-479f-b1c5-a4cf661260fb)
 
+> [!Warning]
+> **On applepay.stl...** The current STL model for the apple pay 3d print is not sized correctly to fit the keychain. This issue will be fixed momentarily.
+
 **You will need:**
   1. HID capable Arduino
   2. An RFID Scanner
